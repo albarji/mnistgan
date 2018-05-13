@@ -1,8 +1,8 @@
 # GAN handwritten digits generation
 
-<img src="samples.png" alt="Generation examples">
+<img src="samples.png" alt="Generation examples" style="width:500px;height:500px;">
 
-A simple Keras implementation of a Generative Adversarial Network, used to generate images of handwritten digits. Based on the tutorial at Stefan Hosein at https://towardsdatascience.com/demystifying-generative-adversarial-networks-c076d8db8f44
+A simple Keras implementation of a Generative Adversarial Network, used to generate images of handwritten digits. Based on the tutorial by Stefan Hosein at https://towardsdatascience.com/demystifying-generative-adversarial-networks-c076d8db8f44
 
 ## Install
 
